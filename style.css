@@ -1,0 +1,77 @@
+body {
+    text-align: center;
+    background-color: darkgray;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#kagami {
+    width: 200px;
+    height: 200px;
+}
+
+#adrien {
+    width: 200px;
+    height: 200px;
+}
+
+#lila {
+    width: 200px;
+    height: 200px;
+}
+
+#nino {
+    width: 200px;
+    height: 200px;
+}
+
+#marinette {
+    width: 200px;
+    height: 200px;
+}
+
+#alya {
+    width: 200px;
+    height: 200px;
+}
+
+#emo {
+    width: 200px;
+    height: 200px;
+}
+
+#alix {
+    width: 200px;
+    height: 200px;
+}
+
+#tomato {
+    width: 200px;
+    height: 200px;
+}
+
+#kim {
+    width: 200px;
+    height: 200px;
+}
+
+.container {
+    text-align: center;
+}
+
+#carousel {
+    background-color: plum;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#2 {
+    background-color: plum;
+}
